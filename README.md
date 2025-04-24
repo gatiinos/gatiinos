@@ -1,5 +1,6 @@
-### *Estephane Lima*
+## Estephane Lima
 ---
+`developer & web designer` 
 
 - student of Alura
 - from Brazil
@@ -14,4 +15,4 @@ Feel free to check out my work and visit my profile anytime. See you around!
 
 ---
 ### 📊 stats
-![](https://github-readme-stats.vercel.app/api?username=gatiinos&theme=midnight-purple_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=gatiinos&show_icons=true&theme=midnight-purple)
