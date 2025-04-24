@@ -14,4 +14,4 @@ Feel free to check out my work and visit my profile anytime. See you around!
 
 ---
 ### 📊 stats
-[![Tete´s GitHub stats](https://github-readme-stats.vercel.app/api?username=gatiinos)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=gatiinos&theme=midnight-purple_icons=true)
