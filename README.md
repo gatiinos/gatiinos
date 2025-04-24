@@ -4,7 +4,9 @@
 - student of Alura
 - from Brazil
   
-Hi there! Im Estephane, but you can call me Tete. <br/> im currently **studying** some language to get started on my carreer, feel free to check on my work and visit my profile as many as you can, bye!
+Hi there! I'm Estephane, but you can call me Tete.  
+I'm currently studying languages to kickstart my career.  
+Feel free to check out my work and visit my profile anytime. See you around!
 
 ---
 ### 🧮 Skills
